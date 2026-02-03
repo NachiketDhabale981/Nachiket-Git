@@ -7,4 +7,3 @@
 
 hhee i am trying to learn git.
 heyy i am fixing this bug
-i am ingested batch data
